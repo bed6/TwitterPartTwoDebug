@@ -75,7 +75,7 @@ public class TweetAdaptor extends  RecyclerView.Adapter<TweetAdaptor.ViewHolder>
             ivProfilePic = itemView.findViewById(R.id.ivProfilePic);
             tvUsername = itemView.findViewById(R.id.tvName);
             tvRelAge = itemView.findViewById(R.id.tvRelAge);
-            tvBody = itemView.findViewById(R.id.tvBody);
+            tvBody = itemView.findViewById(R.id.tvName);
 
         }
 
